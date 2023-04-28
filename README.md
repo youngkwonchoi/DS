@@ -1,6 +1,6 @@
 # DS
 
-1. Data Engineering
+1. Data Wrangling
 
 2. Machine Learning
 
